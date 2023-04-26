@@ -2,7 +2,7 @@
 
 ## Description
 
-This tool is made for testing purposes and uses ADB (Android Debug Shell). It allows you to use two bruteforcing methods: tap and locksettings.
+This tool is made for testing purposes and uses ADB (Android Debug Bridge). It allows you to use two bruteforcing methods: tap and locksettings.
 The __tap__ option is only tested on a OnePlus device with Oxygen OS. If you want to use it in other devices, you should map the device screen enabling UI debug on Developer Options. The __lockscreen__ method can be used on all Android devices.
 
 ### Disclaimer
